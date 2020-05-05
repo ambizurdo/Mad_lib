@@ -21,6 +21,7 @@
 
   input {
     font-size: 34px;
+    margin: 8px;
   }
   .fill {
     background: white;
